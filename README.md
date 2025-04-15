@@ -8,9 +8,10 @@ This project involves exploratory data analysis (EDA) on a hospital's Emergency 
 
 - Database Name: hospital
 - Primary Table Used: hospital_er
-- SQL Language: MySQL/PostgreSQL-style syntax
+- SQL Language: MySQL/SQL
 - View Created: ER_Dashboard – for quick snapshot reporting
 
 ### 📊 View Created – ER_Dashboard
 This view aggregates important daily stats:
 
+![]()
